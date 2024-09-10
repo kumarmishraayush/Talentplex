@@ -201,6 +201,7 @@
     .text
     {
       font-size: larger;
+      margin-left: 5px;
     }
   
   }
