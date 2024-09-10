@@ -274,8 +274,16 @@
     }
     .aboutus-left img
     {
-      width: 150%;
-      margin: auto;
+      width: 40%;
+      margin-left: -25%;
+      
+    }
+    .aboutus-left
+    {
+      width: 100%;
+     display: flex;
+     justify-content: center; 
+     align-items: center;
     }
 
 
@@ -302,12 +310,7 @@
     {
       width: 50%;
     }
-
-  
-    .A
-    {
-      display: visible;
-    }
+ 
     .connectin-main
     {
       display: block;
